@@ -1,0 +1,12 @@
+streamlit
+faiss-cpu
+sentence-transformers
+transformers
+PyPDF2
+pdfminer.six
+PyMuPDF
+pytesseract
+Pillow
+numpy
+python-dotenv
+openai
